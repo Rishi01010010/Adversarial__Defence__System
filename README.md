@@ -172,5 +172,5 @@ Enhance the project with these ideas:
 - *Visualizations:* Add matplotlib or seaborn plots to visualize anomaly rates and model performance.
 
 ## 📌 Links
-- **Dataset:** [Store your `.npy` files in `/content/drive/My Drive/AI_Security_Project/` (as shown in scripts)](https://github.com/elastic/ember).
+- **Dataset:** https://github.com/elastic/ember.
 - **Demo Video:** https://youtu.be/ZmtVZL7hJd8
